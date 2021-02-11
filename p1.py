@@ -4,3 +4,6 @@ class Vehicle:
 		self.mileage=mileage
 modelx=Vehicle(240,18)
 print(modelx.max_speed,modelx.mileage)
+
+class Vehicle:
+    pass
